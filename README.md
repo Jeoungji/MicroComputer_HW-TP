@@ -10,6 +10,7 @@ C
 STM32F407
 #### Board
 TUK Micom practice board
+![Micomkit](Image/MicomKit.png)
 
 #### dependence
 ##### STM32F4xx_StdPeriph_Driver
